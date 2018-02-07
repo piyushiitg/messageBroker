@@ -1,0 +1,171 @@
+Fri Feb  2 13:06:21 2018: Publisher-0 Topic1 How are youFri Feb  2 13:06:21 2018: Publisher-1 Topic2 How are youFri Feb  2 13:06:21 2018: Publisher-2 Topic0 HelloFri Feb  2 13:06:22 2018: Publisher-0 Topic0 How are youFri Feb  2 13:06:22 2018: Publisher-1 Topic1 HiFri Feb  2 13:06:22 2018: Publisher-2 Topic2 How are youFri Feb  2 13:06:23 2018: Publisher-0 Topic1 HelloFri Feb  2 13:06:23 2018: Publisher-1 Topic2 HelloFri Feb  2 13:06:23 2018: Publisher-2 Topic0 HiFri Feb  2 13:06:24 2018: Publisher-1 Topic2 HiFri Feb  2 13:06:24 2018: Publisher-2 Topic2 How are youFri Feb  2 13:06:24 2018: Publisher-0 Topic2 HelloFri Feb  2 13:06:25 2018: Publisher-0 Topic2 HelloFri Feb  2 13:06:25 2018: Publisher-1 Topic2 HiFri Feb  2 13:06:25 2018: Publisher-2 Topic0 HiFri Feb  2 13:06:26 2018: Publisher-0 Topic2 HelloFri Feb  2 13:06:26 2018: Publisher-1 Topic0 HiFri Feb  2 13:06:26 2018: Publisher-2 Topic1 How are youFri Feb  2 13:06:27 2018: Publisher-2 Topic0 How are youFri Feb  2 13:06:27 2018: Publisher-0 Topic0 HiFri Feb  2 13:06:27 2018: Publisher-1 Topic2 How are youFri Feb  2 13:06:28 2018: Publisher-2 Topic1 How are youFri Feb  2 13:06:28 2018: Publisher-1 Topic0 HiFri Feb  2 13:06:28 2018: Publisher-0 Topic1 HiFri Feb  2 13:06:29 2018: Publisher-0 Topic2 HiFri Feb  2 13:06:29 2018: Publisher-1 Topic0 How are youFri Feb  2 13:06:29 2018: Publisher-2 Topic1 HiFri Feb  2 13:06:30 2018: Publisher-2 Topic0 How are youFri Feb  2 13:06:30 2018: Publisher-0 Topic0 How are youFri Feb  2 13:06:30 2018: Publisher-1 Topic0 HiFri Feb  2 13:06:31 2018: Publisher-2 Topic0 HelloFri Feb  2 13:06:31 2018: Publisher-0 Topic1 HiFri Feb  2 13:06:31 2018: Publisher-1 Topic1 HelloFri Feb  2 13:06:32 2018: Publisher-1 Topic2 How are youFri Feb  2 13:06:32 2018: Publisher-0 Topic0 HiFri Feb  2 13:06:32 2018: Publisher-2 Topic0 HelloFri Feb  2 13:06:33 2018: Publisher-0 Topic0 HelloFri Feb  2 13:06:33 2018: Publisher-2 Topic2 HelloFri Feb  2 13:06:33 2018: Publisher-1 Topic2 HelloFri Feb  2 13:06:34 2018: Publisher-0 Topic1 HelloFri Feb  2 13:06:34 2018: Publisher-1 Topic0 How are youFri Feb  2 13:06:34 2018: Publisher-2 Topic2 How are youFri Feb  2 13:06:35 2018: Publisher-2 Topic0 How are youFri Feb  2 13:06:35 2018: Publisher-0 Topic0 How are youFri Feb  2 13:06:35 2018: Publisher-1 Topic2 HiFri Feb  2 13:06:52 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:06:52 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:06:52 2018: Publisher-2 Topic0 Hi
+Fri Feb  2 13:06:53 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:06:53 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:06:53 2018: Publisher-2 Topic0 Hi
+Fri Feb  2 13:06:54 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:06:54 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:06:54 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:06:55 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:06:55 2018: Publisher-0 Topic0 How are you
+Fri Feb  2 13:06:55 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:06:56 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:06:56 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:06:56 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:06:57 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:06:57 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:06:57 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:06:58 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:06:58 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:06:58 2018: Publisher-1 Topic0 Hello
+Fri Feb  2 13:06:59 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:06:59 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:06:59 2018: Publisher-1 Topic0 Hello
+Fri Feb  2 13:07:00 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:07:00 2018: Publisher-2 Topic0 Hello
+Fri Feb  2 13:07:00 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:07:01 2018: Publisher-2 Topic0 Hi
+Fri Feb  2 13:07:01 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:07:01 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:07:02 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:07:02 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:07:02 2018: Publisher-1 Topic2 How are you
+Fri Feb  2 13:11:43 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:11:43 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:11:43 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:11:44 2018: Publisher-0 Topic0 How are you
+Fri Feb  2 13:11:44 2018: Publisher-2 Topic0 Hello
+Fri Feb  2 13:11:44 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:11:45 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:11:45 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:11:45 2018: Publisher-0 Topic1 Hello
+Fri Feb  2 13:11:46 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:11:46 2018: Publisher-1 Topic2 How are you
+Fri Feb  2 13:11:46 2018: Publisher-0 Topic2 Hi
+Fri Feb  2 13:11:47 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:11:47 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:11:47 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:11:48 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:11:48 2018: Publisher-1 Topic0 Hello
+Fri Feb  2 13:11:48 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:11:49 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:11:49 2018: Publisher-0 Topic0 How are you
+Fri Feb  2 13:11:49 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:11:50 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:11:50 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:11:50 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:11:51 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:11:51 2018: Publisher-1 Topic0 Hello
+Fri Feb  2 13:11:51 2018: Publisher-2 Topic0 Hi
+Fri Feb  2 13:11:52 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:11:52 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:11:52 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:11:53 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:11:53 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:11:53 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:11:54 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:11:54 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:11:54 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:11:55 2018: Publisher-0 Topic2 Hi
+Fri Feb  2 13:11:55 2018: Publisher-1 Topic2 How are you
+Fri Feb  2 13:11:55 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:11:56 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:11:56 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:11:56 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:11:57 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:11:57 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:11:57 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:11:58 2018: Publisher-0 Topic1 Hello
+Fri Feb  2 13:11:58 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:11:58 2018: Publisher-1 Topic1 How are you
+Fri Feb  2 13:11:59 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:11:59 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:11:59 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:12:00 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:12:00 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:00 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:12:01 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:12:01 2018: Publisher-2 Topic0 Hi
+Fri Feb  2 13:12:01 2018: Publisher-0 Topic2 Hi
+Fri Feb  2 13:12:02 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:12:02 2018: Publisher-1 Topic2 How are you
+Fri Feb  2 13:12:02 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:03 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:03 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:12:03 2018: Publisher-1 Topic2 How are you
+Fri Feb  2 13:12:04 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:12:04 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:12:04 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:12:05 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:12:05 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:05 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:12:06 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:12:06 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:12:06 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:07 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:07 2018: Publisher-2 Topic0 Hello
+Fri Feb  2 13:12:07 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:12:08 2018: Publisher-1 Topic0 Hello
+Fri Feb  2 13:12:08 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:08 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:09 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:12:09 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:12:09 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:12:10 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:12:10 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:12:10 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:12:11 2018: Publisher-0 Topic2 Hi
+Fri Feb  2 13:12:11 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:12:11 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:12 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:12 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:12:12 2018: Publisher-0 Topic0 How are you
+Fri Feb  2 13:12:13 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:12:13 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:12:13 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:12:14 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:12:14 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:12:14 2018: Publisher-0 Topic0 Hi
+Fri Feb  2 13:12:15 2018: Publisher-0 Topic0 Hello
+Fri Feb  2 13:12:15 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:12:15 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:16 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:12:16 2018: Publisher-0 Topic1 Hi
+Fri Feb  2 13:12:16 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:12:17 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:12:17 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:12:17 2018: Publisher-0 Topic1 Hi
+Fri Feb  2 13:12:18 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:18 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:18 2018: Publisher-2 Topic1 Hello
+Fri Feb  2 13:12:19 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:19 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:12:19 2018: Publisher-1 Topic0 How are you
+Fri Feb  2 13:12:20 2018: Publisher-0 Topic2 How are you
+Fri Feb  2 13:12:20 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:12:20 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:12:21 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:12:21 2018: Publisher-0 Topic0 How are you
+Fri Feb  2 13:12:21 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:12:22 2018: Publisher-2 Topic1 How are you
+Fri Feb  2 13:12:22 2018: Publisher-1 Topic1 Hello
+Fri Feb  2 13:12:22 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:12:23 2018: Publisher-1 Topic2 Hello
+Fri Feb  2 13:12:23 2018: Publisher-0 Topic1 Hello
+Fri Feb  2 13:12:23 2018: Publisher-2 Topic0 How are you
+Fri Feb  2 13:12:24 2018: Publisher-2 Topic2 Hello
+Fri Feb  2 13:12:24 2018: Publisher-1 Topic1 Hi
+Fri Feb  2 13:12:24 2018: Publisher-0 Topic1 How are you
+Fri Feb  2 13:12:25 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:25 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:12:25 2018: Publisher-2 Topic1 Hi
+Fri Feb  2 13:12:26 2018: Publisher-2 Topic2 Hi
+Fri Feb  2 13:12:26 2018: Publisher-0 Topic1 Hello
+Fri Feb  2 13:12:26 2018: Publisher-1 Topic2 Hi
+Fri Feb  2 13:12:27 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:12:27 2018: Publisher-0 Topic2 Hello
+Fri Feb  2 13:12:27 2018: Publisher-1 Topic0 Hi
+Fri Feb  2 13:12:28 2018: Publisher-0 Topic1 Hello
+Fri Feb  2 13:12:28 2018: Publisher-2 Topic2 How are you
+Fri Feb  2 13:12:28 2018: Publisher-1 Topic0 Hi
